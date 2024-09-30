@@ -50,7 +50,11 @@ body {
   }
 
   th {
-    font-size:12pt;
+    font-size: 13pt;
+  }
+
+  td {
+    font-size: 12pt;
   }
   
  
